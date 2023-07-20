@@ -7,4 +7,4 @@ Development of Aeropolis is still in process.
 
 ### List & Links of all Services
 
-- **Flight-Services:** https://github.com/prachi288/Flights-services/tree/main
+- **Flight-Services:** https://github.com/prachi288/Flights-services
