@@ -14,6 +14,7 @@ Aeropolis is a full Flight Booking Management. The architecture used to build th
 
 ### List & Links of all Services
 
-- **Flight-Services:** https://github.com/prachi288/Aeropolis_Services
-- **Flight-Bookings:** https://github.com/prachi288/Aeropolis_booking_codebase
-- **Flight-Api-Gateway:** https://github.com/prachi288/Aeropolis-API-Gateway
+- **Aeropolis-Services:** https://github.com/prachi288/Aeropolis_Services
+- **Aeropolis-Bookings:** https://github.com/prachi288/Aeropolis_booking_codebase
+- **Aeropolis-Api-Gateway:** https://github.com/prachi288/Aeropolis-API-Gateway
+- **Aeropolis-Notification-Service:** https://github.com/prachi288/Aeropolis-Noti-Service
